@@ -1,5 +1,6 @@
 
 -->
+201925040237
 Spring事务管理的两种方式
 
     编程式事务管理。通常使用TransactionTemplete或PlatformTransactionManager，编程式事务管理回造成代码侵入，但更灵活。
